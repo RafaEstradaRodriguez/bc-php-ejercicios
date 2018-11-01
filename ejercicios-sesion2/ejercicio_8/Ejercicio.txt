@@ -1,0 +1,17 @@
+Enunciado:
+
+Escribir un programa que dado un array, te diga la longitud del string más largo y el del más corto.
+
+$cadenas = ["abcd","abc","de","hjjj","g","wer"]
+
+ej:
+El string más corto es 1 y el string más largo es 4
+
+
+Objetivo:
+
+Familiarizarse con el tratamiento de arrays
+
+Nota: Para ejecutar las soluciones directamente con el intérprete de php (en caso de windows php.exe) ejecutar:
+
+php solucion.php
